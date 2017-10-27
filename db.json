@@ -2,7 +2,59 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "Produto em estoque"
+      "nome": "Tênis",
+      "valor": 97.3
+    },
+    {
+      "id": 2,
+      "nome": "Sapato Social",
+      "valor": 139.9
+    },
+    {
+      "id": 3,
+      "nome": "Sapatenis",
+      "valor": 75.0
+    },
+    {
+      "id": 4,
+      "nome": "Chinelo Masculino",
+      "valor": 34.9
+    }
+  ],
+  "vendas": [
+    {
+      "id":1,
+      "data": "2017-10-27T13:51:33.403Z"
+    }
+    {
+      "id":2,
+      "data": "2017-10-27T14:11:23.706Z"
+    }
+  ],
+  "itens": [
+    {
+      "vendaId": 1,
+      "produtoId": 1,
+      "qtd": 1
+    },
+    {
+      "vendaId": 1,
+      "produtoId": 3,
+      "qtd": 1
+    },
+    {
+      "vendaId": 1,
+      "produtoId": 4,
+      "qtd": 1
+    },
+    {
+      "vendaId": 2,
+      "produtoId": 4,
+      "qtd": 2
+    },{
+      "vendaId": 2,
+      "produtoId": 2,
+      "qtd": 4
     }
   ]
 }
