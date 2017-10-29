@@ -57,6 +57,7 @@
     ],
     "clientes": [
         {
+            "id": 1,
             "nome": "Cliente 1",
             "nomeLoja": "Loja Nossa",
             "cnpj": "52598560000193",
