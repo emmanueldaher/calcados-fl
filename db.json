@@ -54,5 +54,22 @@
                 }
             ]
         }
+    ],
+    "clientes": [
+        {
+            "nome": "Cliente 1",
+            "nomeLoja": "Loja Nossa",
+            "cnpj": "52598560000193",
+            "cpfDonoLoja": "36426868426",
+            "telefone": "2126477546",
+            "endereco": {
+                "logradouro": "Rua Delfim Moreira",
+                "numero": "2134",
+                "bairro": "Várzea",
+                "cidade": "Teresópolis",
+                "uf": "RJ",
+                "cep": "25953100"
+            }
+        }
     ]
 }
